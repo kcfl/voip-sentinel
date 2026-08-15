@@ -1,0 +1,10 @@
+﻿calls_log.csv
+audit_log.csv
+*.pcap
+*.pcapng
+config.py
+.env
+__pycache__/
+*.py[cod]
+
+dashboard.html
